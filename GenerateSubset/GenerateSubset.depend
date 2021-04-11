@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610718080 source:e:\fci\fourth year\concepts of programming languages\assignments\assignment2\generatesubset\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+
